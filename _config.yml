@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rag-blog
-email: your-email@example.com
+email: justanotherjakeyg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Listen to a jaded young man rant about things he has no reason to be
     jaded about.
@@ -25,8 +25,8 @@ github_username:  Ragnyll
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
-# theme: minima
+# theme: jekyll-swiss
+theme: minima
 plugins:
   - jekyll-feed
 
