@@ -148,9 +148,9 @@ I suggest [OpenKeychain](https://www.openkeychain.org/about/) and [Password Stor
  OpenKeychain just manages keysets, and Password Store is an android wrapper for pass.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once you get those apps open Password Store first, the open up settings and make sure external repository is disabled.
- If you're not already you should interacting with remote via SSH, especially for this part.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Generate an SSH key pair from the app using the `Generate SSH key pair` and go associate it with your remote git service.
+&nbsp;&nbsp;&nbsp;&nbsp;If you're not already you should interacting with remote via SSH, especially for this part.
+ Generate an SSH key pair from the app using the `Generate SSH key pair` and go associate it with your remote git service.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Back in settings select Edit git server settings.
 
