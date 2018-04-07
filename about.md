@@ -19,9 +19,6 @@ Also, I really just _do not care_ about front end design. There's some improvmen
 For my breakin career, I've been goin for 6 years now. I rep Basement Dwellers Crew (KCMO) and Arch Enemies (STL).
 I'm a footwork head, to me it makes sense with how I think about the movement. Maybe you'll see some videos up here, I dunno. Haven't really decided yet.
 
-One more thing. The language in this blog is probably gonna be pretty harsh.
-I really don't give a shit about being nice with how I word my opinions. If you don't like that, then get the hell out.
-That being said, I do welcome criticism and corrections with anything I may post. 
 Feel free to get in contact with me via email (justanotherjakeyg@gmail.com).
 
 Stay salty kids.
