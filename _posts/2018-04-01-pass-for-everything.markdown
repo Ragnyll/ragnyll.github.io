@@ -56,7 +56,7 @@ $ sudo apt-get install gpg
  pass depends on gpg2 to encrypt all of the password files, if you try to use anything less than v2 then it just wont work.
  If you find that you need to have both installed then just install gpg2 as well and everything should work out the same, just make sure you use `gpg2` instead of `gpg` when I mention it from here on out.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Now you're going to generate your key pair. For the sake of this example we're going to assume that you don't want the key to expire and you implicitly trust everyone and all the devices that you're going to give this key to.
+&nbsp;&nbsp;&nbsp;&nbsp;Now you're going to generate your key pair. For the sake of this example we're going to assume that you don't want the key to expire and you trust all the devices that you're going to give this key to.
  Generate the key with:
 ```sh
 $ gpg --full-gen-key
@@ -107,9 +107,11 @@ and pass that as the public key argument to pass
 &nbsp;&nbsp;&nbsp;&nbsp;You can use pass all over the place, so long as you can decrypt the files.
  For the sake of this example I'm just going to use a one computer, one Android phone setup, but you can scale this pretty easily across however many devices you have.
  One more thing though, this is what I'm going to call "the dirty way" of doing this.
- The safest way is probably to have a gpg key for each device, then to trust each of these keys.
- That, or use some sort of hardware key, like yubikey for decrpyting these on you different devices.
- I may get into those topics another time, but this is the quick and dirty of how to get pass going.
+ I suggest using some sort of hardware key, like yubikey for decrpyting these on you different devices.
+ If you are interested in using a yubikey then check out https://github.com/drduh/YubiKey-Guide.
+ That guide for getting your gpg keys onto a harware key is incredible.
+ I actually suggest using that instead of transfering around keys like we are here, but since it requires another piece of hardware you may not have I'm going to stick with this way.
+ If you do get a yubikey follow that guide. It's pretty damn good.
 
 ### Managing Your Store With git ###
 
