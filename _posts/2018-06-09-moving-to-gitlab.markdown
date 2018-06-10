@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moving To Gitlab"
-excerpt: "Why I'm moving to Gitlab after the Microsoft buyout."
+excerpt: "I'm moving to Gitlab but skeptically optimistic about the Microsoft buyout of Github."
 date:   2018-06-09 00:15:20 -0500
 ---
 
@@ -11,14 +11,15 @@ date:   2018-06-09 00:15:20 -0500
  I guess the owners of Gitlab wanted to take advantage of the situation and get some new users out the deal. 
  After I moved my repos over and got my blog hosted (interestingly enough gitlab also can host Jekyll blogs) I started looking for some reasons to legitimize my hatred of Microsoft.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I've complained a lot about Microsoft, though since I've started doing some research I've found that maybe I've cast the die a little too early.
+&nbsp;&nbsp;&nbsp;&nbsp;I've complained a lot about Microsoft. Though since I've started doing some research I've found that maybe I've cast the die a little too early.
  My primary complaint is that I think all their products are junk. 
  I'll double down on that.
  After the core Microsoft Office suite was realeased years ago nothing else good has come since then.
  I think that Teams is junk, it's hard to navigate, the way chat threads are managed I think are moronic, and you can't forward the traffic through any sort or IRC bounce and read it in a more usable setting.
  VSCode I also don't like since it's built off the memory hog that is electron (any more argument about electron is not exactly the discussion I want to get into here).
- The user interface for Windows 10 is atrocious, not very customizable (at a minimum, being able to control my own hotkey daemon is very important to me), and it's constantly interrupting what I'm doing with some notification from Microsoft or some other installed software thats super annoying to silence. 
- On the computer I have that has Windows on it I don't think I've been able to turn it on once with out being force fed some shitty new update. 
+ The user interface for Windows 10 is atrocious.
+ It's not very customizable (at a minimum, being able to control my own hotkey daemon is very important to me), and it's constantly interrupting what I'm doing with notifications from Microsoft or some other installed software thats I have to silence. 
+ On my Windows machine I don't think I've managed to turn it on once without having to update.
  In short, as a user with some level of technical acumen, I feel like the products are pandering to lower level users without any option for people who want to go beyond default settings and really own their computer.
  Linux does that. 
 
@@ -27,14 +28,14 @@ date:   2018-06-09 00:15:20 -0500
  
 &nbsp;&nbsp;&nbsp;&nbsp;Could Microsoft's buyout of Github really be that bad?
 
-&nbsp;&nbsp;&nbsp;&nbsp;After looking for some excuse to justify my salt I'm actually unsure.
+&nbsp;&nbsp;&nbsp;&nbsp;After looking for some excuse to justify my salt I'm actually not sure.
  The common arguments are those of paranoia. 
  Believe me, I'm pretty paranoid.
  Maybe not as much as some of the other basement dwellers I know, but most definitely more than the average person who will hand over their entire life to Facebook then act surprised when they find out that their personal data is being used for advertisements and other "research".
  The answer to this question rests on what kind of stewards Microsoft will be of the open source community.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I'm skeptically optimistic that Microsoft will be good keepers of the open source community.
- I've read the fabled ["Halloween Document"][1], and that was pretty disturbing when it comes to their stance on open source technologies, but that was back in 2004 (when the last one came out), and it seems since then they've changed their colors since then.
+ I've read the fabled ["Halloween Document"][1], and that was pretty disturbing when it comes to their stance on open source technologies, but that was back in 2004 (when the last one came out), and it seems since then they've changed their colors.
  VSCode is (while I still dont like it) one of the larger open source projects on Github (even before the takeover).
  Microsoft was at one point one of the top contributors to Linux.
  [Though they aren't anymore][2], they've still done a lot for operating systems that I prefer much more to Windows.
@@ -46,19 +47,26 @@ date:   2018-06-09 00:15:20 -0500
 &nbsp;&nbsp;&nbsp;&nbsp;I am still worried though.
  Is this a plot to buy out the biggest OSS platform, drive it into the ground (Microsoft owned Skype makes me cry), and kill the competition? 
  Will this lead to more censorship of the OSS community if Microsoft really is in bed with the NSA?
+ Are they going to steal all of our personal data for what they determine to be ["good faith"][4]?
+ The line on what data collection is reasonable I think is a totally different question, but company having a way to backoor into my machine is not something I swallow very easily.
+ At the very least, a company selling closed source solutions owning the largest open source platform raises some hairs. 
  There's also the interesting question of how they will handle open source projects that actively threaten their own products, such as xbox emulators.
+ I think all these tinfoil hat arguments and questions, while to some degree are unfounded, are hair raising, and seem just logical enough to spook me.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Really, it all comes down to just an uncomfortable feeling I get from my distrust of a lot of large companies.
+&nbsp;&nbsp;&nbsp;&nbsp;It all comes down to just an uncomfortable feeling I get from my distrust of a lot of large companies.
  Could this all be fine? Maybe.
  I'm not about to stick around and find out the hard way though.
  If a couple years from now everything is rosy I might come back to Github.
  My account will remain open, so I can contribute (whatever negligible amount that may be) to others' projects, but I'll give Gitlab a try.
- So Gitlab, this is your chance to impress me.
+ So, Gitlab, this is your chance to impress me.
  I'm already here, and so far the features seem ok.
- Same to you Microsoft. Try and win me back.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Same to you Microsoft.
+ Try and win me back.
 
 
 
 [1]: https://www.gnu.org/software/fsfe/projects/ms-vs-eu/halloween1.html?ref=stackshare
 [2]: https://www.zdnet.com/article/whos-building-linux-in-2017/
 [3]: https://github.com/Microsoft/web-build-tools/issues/673
+[4]: http://bgr.com/2015/07/31/windows-10-upgrade-spying-how-to-opt-out/
