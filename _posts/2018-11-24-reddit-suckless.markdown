@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Reddit Suckless"
-excerpt: "How I made browsing Reddit suck less."
+title:  "Make Reddit Less Junk"
+excerpt: "How I made browsing Reddit slightly less of a pain."
 date:   2018-11-24 00:15:20 -0500
 ---
 
