@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "practice scheuling"
+title:  "Practice Scheduling"
 excerpt: "A summary of how I break down my practices."
 date:   2019-10-10 01:03:20 -0500
 ---
