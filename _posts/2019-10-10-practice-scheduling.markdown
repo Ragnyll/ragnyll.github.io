@@ -8,36 +8,37 @@ date:   2019-10-10 01:03:20 -0500
 
 &nbsp;&nbsp;&nbsp;&nbsp;I dont have a ton of extra time everyday, so I can only fit in about 3 activities in a day.
  8-10 hours for work, 2-2.5 hours for practice and maybe 2 hours for whatever extra studying I'm doing on the side, any other time that I could use is lost to sleep or to transitions between things.
- I don't have time in that schedule for working out, so it is imperative that I practice efficently such that I dont have to and can stay fit enough to perform well for breaking.
- I also will sacrifice one practice a week to do yoga nad other excercies that are very difficult to achieve in breaking (aka pull ups and other conditioning for pulling muscles).
+ I don't have time in that schedule for working out, so it is imperative that I practice efficently such that I dont have to and an I am able to stay fit enough to perform well for breaking.
+ I also will sacrifice one practice a week to do yoga and other excercies that are very difficult to achieve in breaking (aka pull ups and other conditioning for pulling muscles).
 
-&nbsp;&nbsp;&nbsp;&nbsp;In breaking a can break my practice down into a couple discrete sections: warming up, toprock, freezes, footwork drills, specific moves I need to work on, and endurance training, then core strengthening drills.
+&nbsp;&nbsp;&nbsp;&nbsp;In breaking I split my practice into a 7 discrete sections: warming up, toprock, freezes, footwork drills, specific moves I need to work on, and endurance training, then core strengthening drills.
 
-## Warming Up
-&nbsp;&nbsp;&nbsp;&nbsp;I've been injured enough times that warming up has become essential.
- Times where I dont warm up my practices have suffered and I usually end up cold before I start a move and run a higher risk of hurting myself.
+### Warming Up
+&nbsp;&nbsp;&nbsp;&nbsp;I've learned from being injured many times that an effective warm is mandatory for a good practive.
+ Times where I dont warm up my practices have suffered.
+ I start moves before my body is ready and therefore run a higher risk of injury.
 
  My warm up consists of:
- * 3 minute of jogging and jumping jacks (alternating every 30 seconds) just to get my blood moving
+ * 3 min of jogging and jumping jacks (alternating every 30 seconds) just to get my blood moving
  * 30 seconds of arm circles both ways
  * Circles around all the major rotation points in my body (aka neck, hip, back, shoulders, legs, knees, ankles and wrists). 
 
  This whole ritual typically takes about 10 minutes.
 
-## Toprock
+### Toprock
 &nbsp;&nbsp;&nbsp;&nbsp;I cant say toprock has ever been the best thing about my breakin, but there is no way to get away from it.
- I'm n not super rhythmic and musical like some of my other crewmates in Arch Enemies or the friends I generally practice with, but there is no way of getting around in breaking without passable toprock.
- It has to make sense with te rest of my style of moving, so in dorder to get to that I'm very meticulous about the music I listen to while I practice that.
- I usually listen to rap (old school and new school).
- There is enough musically to pay attention to but it still sort of fits into my breaking style.
+ I'm not super rhythmic and musical like some of my other crewmates in Arch Enemies or the friends I generally practice with, but I have to train to keep it at a level consistent with my groundwok.
+ My toprock must make sense with the rest of my style, so in order to establish that same foundation that I'm very meticulous about the music I listen to while I practice rockin.
+ I usually listen to rap (old school and new school) to train my musicality and presence.
 
- I make sure my rounds are at least 30 seconds and I try to focus on a different aspect of moving each round.
+&nbsp;&nbsp;&nbsp;&nbsp;I make sure my rounds are at least 30 seconds and I try to focus on a different aspect of moving each round.
  I'll make sure I work on directionality, levels, steps, and speeds.
+ I focus on one of those concepts a day.
  That's probably an oversimplification of how to practice toprocking, but it works for me.
 
  I spend 10 minutes on this.
 
-## Freezes
+### Freezes
 &nbsp;&nbsp;&nbsp;&nbsp;Funnily enough I dont use my freezes very much in battles and cyphers (though I am working on that)
  I do run them in practice mostly for conditioning and in case I end up in a situation where I really need them to execute something.
  I usually pick 3-5 arbitrary freezes to work in a practice, and try different ways of getting in and out of them slowly.
@@ -55,13 +56,23 @@ date:   2019-10-10 01:03:20 -0500
  I suggest throwing as many different wrenches into this drill as possible, but be scientific about it.
  Change only one thing a day.
 
+ Basic footwork drills should take less then 10 minutes (depending on the day and speed).
+
 ## Specific Move Training
-&nbsp;&nbsp;&nbsp;&nbsp;In this section of time (about 20-30 min depending on how much time I have left in the day) I'll practice any particular combos I'm working on.
+&nbsp;&nbsp;&nbsp;&nbsp;In this section of time (about 20-40 min depending on how much time I have left in the day) I'll practice any particular combos I'm working on.
  Notice that hitherto I haven't mentioned anything about training powermoves and blowups.
  That's because I hate both of them and I find that the majority of my injuries have came from when I really start pushing power moves.
  Unfortunately though, I've recently found that the main thing holding me back in breaking is my inability to do blowup combos and certain basic power (like flares and 90s).
  So recently I've been devoting this section to working on those things. 
- I use this time to play around and develop new combos.
+ I use this time to play around and develop new combos and concepts.
+
+&nbsp;&nbsp;&nbsp;&nbsp;At this point I think it's worth noting learning how you move is going to determine how you approach the dance.
+ To this end, I say experiment, but make sure that you spend the requisite amount of time seeing how whatever you create fits in with the rest of how you move.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I also say run any given combo/move 5-7 times.
+ Breaking is a patient person's game.
+ Any movement worth having takes time to build up, but if practiced to the point of over-exhaustion injuries can occur and bad habits will be built.
+ Either of these occuring will effectively triple the amount of time it takes to get a move.
 
 ## Endurance Training
 &nbsp;&nbsp;&nbsp;&nbsp;For the last 20 minutes of my normal breaking practice I spend this time running full rounds to train endurance.
@@ -87,7 +98,7 @@ date:   2019-10-10 01:03:20 -0500
  The app says you should be doing it 6 days a week (3 days on, 1 day off) but I dont feel bad missing a day if I'm feeling partiuclarly beat.
  It's a supplemental activity. anyway.
 
-## Final Thoughts
+### Final Thoughts
 &nbsp;&nbsp;&nbsp;&nbsp;I know this is probablly strange to bring up at this point (I dont care, it's a blog about breaking), but I train my breaking like I work in my job.
  I try to identify the discrete elements of breaking and make sure I take deliberate steps at improving each of these components.
  It's a slow game, but I honestly believe that taking calculated steps and isolating variables will lead to an optimal practice and desired style of breaking.
@@ -97,6 +108,6 @@ date:   2019-10-10 01:03:20 -0500
  I am a very nerous person, and when I get nervous during battles I tend to fall back on my habits and the things that I have prcticed the most.
  So, the logic follows that if I train desired habits, even if I end up in a state of panic I can still perform at a relatively high level.
  Obviously being nervous will never put me at my strongest or most competitive, but if I can raise the lower baseline of performance then I will inevitably be more consistent.
- It is hard to achieve long term growth with a lack of consitency.
+
+&nbsp;&nbsp;&nbsp;&nbsp;It is hard to achieve long term growth with a lack of consitency.
  I strive for consistency in breaking and I believe my practice habit is the best step towards that.
- 
