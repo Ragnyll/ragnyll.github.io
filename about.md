@@ -16,7 +16,7 @@ If a system is gonna lock me into some certain way of thinking, then I don't lik
 Python is my language of choice as it's basically my swiss army knife when it come to solving problems. 
 Also, I really just _do not care_ about front end design. There's some improvments that will come for the usability of this site, but if you're looking for a pretty looking blog this is not the one for you. It really should come as no surprise, given the previous statement, that I mostly prefer working in the back end, in the terminal. 
 
-For my breakin career, I've been goin for 6 years now. I rep Basement Dwellers Crew (KCMO) and Arch Enemies (STL).
+For my breakin career, I've been goin for 7 years now. I rep Arch Enemies Crew (STL).
 I'm a footwork head, to me it makes sense with how I think about the movement. Maybe you'll see some videos up here, I dunno. Haven't really decided yet.
 
 Feel free to get in contact with me via email (justanotherjakeyg@gmail.com).
