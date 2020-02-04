@@ -2,7 +2,7 @@
 layout: post
 title:  "My dmenu Switching Script"
 excerpt: "A neat little dmenu setup I use to manage scripts with finite numbers of options."
-date: 2020-01-25 02:15:20 -0500
+date: 2020-02-02 02:15:20 -0500
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;Here's a video demoing a few scripts I use to use dmenu for selector scripts.
