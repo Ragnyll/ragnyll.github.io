@@ -22,4 +22,4 @@ So now that's my online presence everywhere I go.
 &nbsp;&nbsp;&nbsp;&nbsp;For my breakin career, I've been goin for 8 years now. I rep Arch Enemies Crew (STL).
  I'm a footwork head, to me it makes sense with how I think about the movement. Maybe you'll see some videos up here, I dunno. Haven't really decided yet.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Feel free to get in contact with me via email (justanotherjakeyg@gmail.com).
+&nbsp;&nbsp;&nbsp;&nbsp;Feel free to get in contact with me via email (blog@gallowzhumour.dev).
