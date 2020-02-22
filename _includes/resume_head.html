@@ -1,0 +1,29 @@
+<div class="container resume-head-container">
+	<div class="row">
+		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 resume-head-left">
+			<h1>{{ site.resume.name | escape }}</h1>
+			<h2>{{ site.resume.job_title | escape }}</h2>
+		</div>
+		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 resume-head-right">
+			<ul style="list-style-type: none">
+				{%- if site.gitlab_username -%}
+					<li>
+						<a target"_blank" href="https://gitlab.com/{{ site.gitlab_username | cgi_escape | escape }}"><img src="{{ site.scm_icon }}" alt="gitlab link" title="Gitlab profile"></a>
+					</li>
+				{%- endif -%}
+
+				{%- if site.resume.email -%}
+					<p>
+						Email: <a href="mailto:{{ site.resume.email }}" target="_blank">{{ site.resume.email | escape }}</a>
+					</p>
+				{%- endif -%}
+				{%- if site.resume.website -%}
+					<p>
+						<!-- I know hardcoding this is bad but I dont like the way jekyll tries to prepend the path and I dont care enough to figure out the "right" way when running on a dev server --!>
+						Blog: <a href="https://blog.gallowzhumour.dev">{{ site.resume.website | escape }}</a>
+					</p>
+				{%- endif -%}
+			</ul>
+		</div>
+	</div>
+</div>
