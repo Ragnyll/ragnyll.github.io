@@ -8,7 +8,7 @@ permalink: /about/
 
 &nbsp;&nbsp;&nbsp;&nbsp;I'm Jake. I'm a software engineer and bboy.
 
-&nbsp;&nbsp;&nbsp;&nbsp;The name Ragnyll comes from my World of Warcraft days. I had an undead rogue that I named Ragnyll. Pretty much everone in my guild (Frogz) called me Rag.
+&nbsp;&nbsp;&nbsp;&nbsp;The name Ragnyll comes from my World of Warcraft days. I had an undead rogue that I named Ragnyll. Pretty much everyone in my guild (Frogz) called me Rag.
 So now that's my online presence everywhere I go.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I love linux. When I first got into programming I always wanted to create the environment that was totally mine.
@@ -16,7 +16,7 @@ So now that's my online presence everywhere I go.
  As such, I'm very particular about how any computer I use should work. I'm sure you'll find out through this blog just how opinionated I am.
  Python is my language of choice as it's basically my swiss army knife when it come to solving problems.
  Also, I really just _do not care_ about front end design.
- There's some improvments that will come for the usability of this site, but if you're looking for a pretty looking blog this is not the one for you.
+ There's some improvements that will come for the usability of this site, but if you're looking for a pretty looking blog this is not the one for you.
  It really should come as no surprise, given the previous statement, that I mostly prefer working in the back end, in the terminal.
 
 &nbsp;&nbsp;&nbsp;&nbsp;For my breakin career, I've been goin for 8 years now. I rep Arch Enemies Crew (STL).
