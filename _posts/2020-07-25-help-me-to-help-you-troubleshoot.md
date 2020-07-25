@@ -2,7 +2,7 @@
 layout: post
 title:  "Help Me (To Help You) Troubleshoot"
 excerpt: "Thoughts on how to make support channels a little less toxic."
-date: 2020-07-16 02:15:20 -0500
+date: 2020-07-25 02:15:20 -0500
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;Going to a engineering support channel for troubleshooting help is hardly anyone's idea of a good time.
