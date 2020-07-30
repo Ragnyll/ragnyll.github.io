@@ -12,7 +12,7 @@ date: 2020-07-25 02:15:20 -0500
  Beyond that, most questions or issues you're getting have already been answered in some capacity, and the hordes of attention zombies have done nothing to help themselves.
  Finally, when you do get around to helping someone with their issue you have to deal with  bizarre turn around times on responses that plague asynchronous communication.
 
-&nbsp;&nbsp;&nbsp;&nbsp;A good rapport in support channel is very difficult to maintain when even under good conditions.
+&nbsp;&nbsp;&nbsp;&nbsp;A good rapport in support channel is very difficult to maintain even under good conditions.
  Thankfully, there are things that both parties can do to prevent an adversarial relationship from emerging.
 
 From the reporter's side they can:
