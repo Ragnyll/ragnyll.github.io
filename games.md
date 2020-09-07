@@ -15,3 +15,4 @@ permalink: /games/
 | Hollow Knight | 01/01/2000 | 2 | 85 |
 | Persona 5: Royal | 05/31/2020 | 1 | 77 |
 | Persona 5 | 08/01/2018 | 1 | 82 |
+| Ghost of Tsushima | 08/22/2020 | 1 | 64 |
