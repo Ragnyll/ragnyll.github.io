@@ -2,8 +2,11 @@
 layout: post
 title:  "Rewriting My Video Editor"
 excerpt: "How and why I rewrote my json video editor to not use json."
-date: 2021-03-06 02:15:20 -0500
+date: 2021-07-05 02:15:20 -0500
 ---
+
+&nbsp;&nbsp;&nbsp;&nbsp;_This post was originally meant to be released in March, but I got annoyed with a defect I had to fix in this new implementation.
+ I did fix it but I forgot about this post. So here it is now._
 
 &nbsp;&nbsp;&nbsp;&nbsp;Last year I wrote a blog post about my "[breaking-move-editor](https://gitlab.com/Ragnyll/breaking_move_editor)", a project I used to edit my dance footage.
  The idea behind it was that it was more efficient to write a `json` object to represent a video clip rather than open up some beefy editor like [OpenShot](https://www.openshot.org/) (or for windows adobe or some bs like that) and drag clips around until you get it visually correct.
