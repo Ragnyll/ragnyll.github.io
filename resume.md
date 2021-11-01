@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;READ MY FUCKIN RESUME
+&nbsp;&nbsp;&nbsp;&nbsp;READ MY RESUME
