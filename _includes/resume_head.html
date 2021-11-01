@@ -6,11 +6,6 @@
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 resume-head-right">
 			<ul style="list-style-type: none">
-				{%- if site.gitlab_username -%}
-					<li>
-						<a target"_blank" href="https://gitlab.com/{{ site.gitlab_username | cgi_escape | escape }}"><img src="{{ site.scm_icon }}" alt="gitlab link" title="Gitlab profile"></a>
-					</li>
-				{%- endif -%}
 
 				{%- if site.resume.email -%}
 					<p>
@@ -22,6 +17,11 @@
 						<!-- I know hardcoding this is bad but I dont like the way jekyll tries to prepend the path and I dont care enough to figure out the "right" way when running on a dev server --!>
 						Blog: <a href="https://blog.gallowzhumour.dev">{{ site.resume.website | escape }}</a>
 					</p>
+				{%- endif -%}
+				{%- if site.gitlab_username -%}
+                    <p>
+                        Gitlab Profile: <a href="https://gitlab.com/{{ site.gitlab_username | cgi_escape | escape }}">Ragnyll</a>
+                    </p>
 				{%- endif -%}
 			</ul>
 		</div>
