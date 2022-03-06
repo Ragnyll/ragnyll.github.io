@@ -68,7 +68,7 @@ _The below are my personal feelings following the project.
  I'll just make sure to keep educating myself so I can write better software as I continue down this career path.
 
 &nbsp;&nbsp;&nbsp; I'll be honest, this project took a lot out of me.
- I've been working on it since the end of December on top of my full time job, a side job, and preparing for interviews, so my mental bandwidth over the last couple of months has been at it's limit.
+ I've been working on it since the end of December on top of my full time job, a side job, and preparing for interviews so my mental bandwidth over the last couple of months has been at it's limit.
  I thought this project would be easy and wouldn't take as long as it did, but other obligations slowed it down, and I did not think I would hit nearly as many corner cases as I did on this project.
  Thankfully, Rust does a good job of forcing me to handle those oddball cases sooner, otherwise I would have had to spend significantly more time debugging, testing, and coding.
  I honestly don't know how much longer this would have taken had I chosen to develop this in Python or something else.
