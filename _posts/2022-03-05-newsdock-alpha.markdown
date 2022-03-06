@@ -12,7 +12,7 @@ date: 2022-03-05 02:15:20 -0500
 &nbsp;&nbsp;&nbsp; I was pissed.
 
 &nbsp;&nbsp;&nbsp; It was insane to me a show that had been out for less than 10 hours was already being spoiled by YouTube's feed algorithm.
- So I took an oath to stop using YouTube and use a custom content aggregator I found in the RSS reader [Newsboat](https://newsboat.org/). I installed Newsboat, and it did help me avoid scrolling through YouTube and seeing videos I didn't want to see, but I thought I could take this a step further.
+ So I took an oath to stop using YouTube and did so by using the RSS reader [Newsboat](https://newsboat.org/). I installed Newsboat, and it did help me avoid scrolling through YouTube and seeing videos I didn't want to see, but I thought I could take this a step further.
  If I could keep all the site's content that I cared about offline for my RSS reader I wouldn't have to visit the site at all when opening the link on Newsboat.
 
 &nbsp;&nbsp;&nbsp; And thus, [Newsdock](https://github.com/Ragnyll/newsdock) was born.
