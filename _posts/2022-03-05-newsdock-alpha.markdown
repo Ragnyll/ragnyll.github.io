@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Newsdock: What and Why"
+title:  "Newsdock"
 excerpt: "A writeup on Newsdock and the problems it solves for me."
-date: 2022-03-03 02:15:20 -0500
+date: 2022-03-05 02:15:20 -0500
 ---
 
 &nbsp;&nbsp;&nbsp; Back in 2021 I was eagerly awaiting the final episodes of [Arcane](https://www.imdb.com/title/tt11126994/) to finish airing on Netflix.
@@ -17,8 +17,7 @@ date: 2022-03-03 02:15:20 -0500
 
 &nbsp;&nbsp;&nbsp; And thus, [Newsdock](https://github.com/Ragnyll/newsdock) was born.
 
-|![newsdock logo](/assets/2022-03-05-newsdock-alpha/newsdock_logo.png)|
-|:--:|
+![newsdock logo](/assets/2022-03-05-newsdock-alpha/newsdock_logo.png)
 
 ## What is Newsdock?
 &nbsp;&nbsp;&nbsp; Newsdock is a mechanism I wrote for caching and opening Newsboat feed items locally.
