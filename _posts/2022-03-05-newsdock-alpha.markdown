@@ -62,7 +62,7 @@ _The below are my personal feelings following the project.
  I had picked up R-Todo as a project to really learn the language instead of just writing tiny single file tools, so when I was developing it I made a huge number of bad assumptions, and just sort of designed it as I was coding it.
  I tried to improve on my development patterns in Newsdock so I came in with a design, a little more knowledge, and a stronger desire to solve a problem that bothered me a lot.
 
-&nbsp;&nbsp;&nbsp; Having read a few more books on Rust coming into Newsdock I feel that I was in a much better place to make it presentable, however I'm not as seasoned as I would like to be in Rust.
+&nbsp;&nbsp;&nbsp; Having read a few more books on Rust coming into Newsdock I thought that I was in a much better place to make it presentable, but I'm not as seasoned as I would like to be.
  I did my best with what I thought was a sensible design or pattern but I for sure made a lot of mistakes that a stronger engineer would cringe at.
  In any case this was a marked improvement from R-Todo, so I'll take that little win for now.
  I'll just make sure to keep educating myself so I can write better software as I continue down this career path.
