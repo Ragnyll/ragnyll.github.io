@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using COBOL to Solve Leetcode Problems: a Quixotic Challenge"
-excerpt: "The solving modern problems with a dead language."
+excerpt: "Solving modern problems with a dead language."
 date: 2022-07-24 00:15:20 -0500
 author: "Max Accardi"
 ---
