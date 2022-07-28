@@ -3,6 +3,7 @@ layout: post
 title:  "Rewriting My Video Editor"
 excerpt: "How and why I rewrote my json video editor to not use json."
 date: 2021-07-05 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;_This post was originally meant to be released in March, but I got annoyed with a defect I had to fix in this new implementation.

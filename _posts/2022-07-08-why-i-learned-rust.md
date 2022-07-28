@@ -3,6 +3,7 @@ layout: post
 title:  "Why I Learned Rust"
 excerpt: "Why did I get myself into this mess"
 date: 2022-07-08 02:15:20 -0500
+author: "Jake Gallow"
 ---
 &nbsp;&nbsp;&nbsp; So I've been using Rust for a bit over a year now, so I figure why not write a blog post reminiscing why I got myself into this mess.
 

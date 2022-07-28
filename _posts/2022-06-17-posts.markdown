@@ -3,6 +3,7 @@ layout: post
 title:  "Writing More Often"
 excerpt: "My resolution write more regularly"
 date: 2022-06-17 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp; This blog does not get nearly the amount of attention from me that it should.

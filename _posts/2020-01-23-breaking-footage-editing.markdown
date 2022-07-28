@@ -3,6 +3,7 @@ layout: post
 title:  "Editing Breaking Footage (prototype)"
 excerpt: "The proof of concept script I wrote for editing breaking footage"
 date: 2020-01-22 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;Here's a little something different today.

@@ -3,6 +3,7 @@ layout: post
 title:  "Breaking Down Space"
 excerpt: "How I Approach Space In a Breakin Battle."
 date:   2019-02-10 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;Last week was Rockers Rumble in Colorado, A 5v5 crew battle.

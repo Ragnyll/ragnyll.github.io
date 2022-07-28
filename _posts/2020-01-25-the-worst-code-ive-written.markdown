@@ -3,6 +3,7 @@ layout: post
 title:  "The Worst Code I've Written"
 excerpt: "A quick look at my conky rings and what makes them the worst code I've written (recently)"
 date: 2020-01-25 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;I've been a software engineer for just about 3 years now, and I've gotten pretty confident in my coding ability.

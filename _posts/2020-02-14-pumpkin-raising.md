@@ -3,6 +3,7 @@ layout: post
 title:  "Pumpkin Raising Break In"
 excerpt: "My solution to the second vm in the pumpking festival series"
 date: 2020-02-14 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;I've managed to break down the fence into the pumpkin garden, now its time for the `pumpkin raising` vulnhub image.

@@ -3,6 +3,7 @@ layout: post
 title:  "pass For Everything"
 excerpt: "How to manage your passwords without losing your mind."
 date:   2018-04-01 17:15:20 -0500
+author: "Jake Gallow"
 ---
 
 ## The Problem ##

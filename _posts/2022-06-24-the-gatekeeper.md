@@ -3,6 +3,7 @@ layout: post
 title:  "The Gatekeeper"
 excerpt: "A rant on why C++ being taught as a first language"
 date: 2022-06-24 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp; When I was college the very first thing my intro to computer science teacher did was turn off the light, walk to the front of the class, then asked us to tell him how to go turn the lights back on.

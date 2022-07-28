@@ -3,11 +3,12 @@ layout: post
 title:  "Make Reddit Less Junk"
 excerpt: "How I made browsing Reddit slightly less of a pain."
 date:   2018-11-24 00:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;I really do not like browsing Reddit.
  I think the search functionality is a pain to use (though they have made some good changes through the redesign), and following specific topics is a huge pain.
- Even if you create a multireddit of only the subreddits you care about following you still have to sift through a large amount of junk. 
+ Even if you create a multireddit of only the subreddits you care about following you still have to sift through a large amount of junk.
  For example, if on r/linux I'm only interested in posts and discussions that relate to kernel updates I still have to go the subreddit and do a search for that topic.
  Really what I want is a multireddit that only includes very specific kinds of posts.
  So why not just create a multireddit then do searches on that?
@@ -23,8 +24,8 @@ date:   2018-11-24 00:15:20 -0500
  It's not the most well thought out code I've ever written, but I spun it up pretty quickly just so I could have this run for me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;In the future with this I'm going to look at applying multiple filters with logical `and` and logical `or` to make the filters a little smarter.
- I also would like a function to do this with an individual reddtor's posts. 
- So if I really like someone's posts about bspwm or linux mint or whatever I can just watch that redditor's posts. 
+ I also would like a function to do this with an individual reddtor's posts.
+ So if I really like someone's posts about bspwm or linux mint or whatever I can just watch that redditor's posts.
  Unfortunately [praw](https://praw.readthedocs.io/en/latest/index.html) makes it difficult to just grab a redditor's posts.
  I'll have to filter out their comments so I don't throw up errors.
  Also, I don't really handle the utc conversion very well.

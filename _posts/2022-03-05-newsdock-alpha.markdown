@@ -3,6 +3,7 @@ layout: post
 title:  "Newsdock"
 excerpt: "A writeup on Newsdock and the problems it solves for me."
 date: 2022-03-05 02:15:20 -0500
+author: "Jake Gallow"
 ---
 
 &nbsp;&nbsp;&nbsp; Back in 2021 I was eagerly awaiting the final episodes of [Arcane](https://www.imdb.com/title/tt11126994/) to finish airing on Netflix.
