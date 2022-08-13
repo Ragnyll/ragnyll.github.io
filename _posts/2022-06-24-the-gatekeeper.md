@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Gatekeeper"
-excerpt: "A rant on why C++ being taught as a first language"
+excerpt: "A rant on why C++ should not be taught as a first language"
 date: 2022-06-24 02:15:20 -0500
 author: "Jake Gallow"
 ---
@@ -68,7 +68,7 @@ int main()
  If we really wanna explain everything here we need to explain what the `io` libraries we're including are, what is a library, what a `namespace` is, what it means to use the std `namespace`, what output streams are, and why arguments a pushed to it in a specific order.
  These aren't strictly requisite explanations; we could just say "you need these things to output this way, just memorize it," which is also a pretty horrible answer because it implies that everything here is boilerplate.
  Furthermore, these explanations do nothing to help people learn how to solve problems, its just more information that at its onset just feels like historical trivia to people who've only ever used MacOS or Windows.
- This extremely narrow example is just the tip of the iceberg when it comes to C++ syntax, so hopefully its not too much of the problem by the time they get to pointers and dynamically allocated memory.
+ This extremely narrow example is just the tip of the iceberg when it comes to C++ syntax, so hopefully its not too much of a problem when they get to pointers and dynamically allocated memory.
 
 # Now run your code
 
