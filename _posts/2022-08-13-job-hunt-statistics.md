@@ -60,13 +60,13 @@ date: 2022-08-14 02:15:20 -0500
 &nbsp;&nbsp;&nbsp; There are probably a few other stats I should have kept track of like how many rounds of interviews there were, and the time from the last interview to the offer.
  I was mostly interested in how long it would take to start and complete an interview process.
 
-&nbsp;&nbsp;&nbsp; Honestly all the applications and interviews felt pretty shitty and draining at the time, but looking back at this it could have been much worse.
+&nbsp;&nbsp;&nbsp; Honestly all the applications and interviews felt pretty horrible and draining at the time, but looking back at this it could have been much worse.
  At the time it seemed like I was applying to many more jobs than I was in reality and that my response rate felt much worse than it actually was.
  From what I've been told a 42% first interview rate is actually pretty good.
  Some of my friends in comp sci and other industries have horror stories of applying to a hundred jobs before they finally get an offer; though I have a feeling that "100 applications" is hyperbole the number is probably still high.
 
 &nbsp;&nbsp;&nbsp; All in all, the job hunt sucks.
- If there's any tool employers have at their disposal for keeping people at their job, its that the alternative is such a fucking nightmare.
+ If there's any tool employers have at their disposal for keeping people at their job, its that the alternative is such a nightmare.
  I sunk so much time into learning how to answer interview questions and I'm not actually sure I'm a better engineer or not because of it.
  I think some of it has helped my general problem solving skills, but I probably could have gotten more just writing more out of side projects and contributing to more open source instead.
 
