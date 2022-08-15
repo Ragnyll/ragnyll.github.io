@@ -50,7 +50,7 @@ date: 2022-08-14 02:15:20 -0500
 |Longest time (days) between first interview and offer|31|
 
 &nbsp;&nbsp;&nbsp; A few things to note about these stats before analysis:
-- The same size is small at only 19 applications.
+- The sample size is small at only 19 applications.
  I'm pretty sure that this means that it's not statistically significant, so this may not be a good measure of success.
  Maybe if I'm feeling funny I'll apply to a bunch of jobs I don't want to round out the statistics.
 - Experience varies heavily between candidates, so these stats may not very well inform another person's job search
