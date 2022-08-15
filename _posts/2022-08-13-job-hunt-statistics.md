@@ -66,7 +66,7 @@ date: 2022-08-14 02:15:20 -0500
  Some of my friends in comp sci and other industries have horror stories of applying to a hundred jobs before they finally get an offer; though I have a feeling that "100 applications" is hyperbole the number is probably still high.
 
 &nbsp;&nbsp;&nbsp; All in all, the job hunt sucks.
- If there's any tool employers have at their disposal for keeping people at their job, its that the alternative is such a nightmare.
+ If there's any tool employers have at their disposal for keeping people at their job its that the job search and interview process is such a nightmare.
  I sunk so much time into learning how to answer interview questions and I'm not actually sure I'm a better engineer or not because of it.
  I think some of it has helped my general problem solving skills, but I probably could have gotten more just writing more out of side projects and contributing to more open source instead.
 
