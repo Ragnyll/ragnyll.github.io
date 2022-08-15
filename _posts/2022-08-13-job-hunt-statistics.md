@@ -10,9 +10,9 @@ date: 2022-07-28 02:15:20 -0500
  I think this information may be useful to other software engineers looking for a new position so here I will publish some background and the statistics.
 
 &nbsp;&nbsp;&nbsp; It's important to note that everyone's job hunt experience will be different depending on their background and interests so in order to better frame this information a very brief overview of my career is necessary.
- I am a software engineer with five and a half years of experience working in the big data processing space.
- I've written a handful of microservices, done a lot of ETL work, and a spent even more time on devops and support.
- I was looking to move into lower level development with Rust so I was applying for mid-level positions that would afford me that opportunity.
+- I am a software engineer with five and a half years of experience working in the big data processing space.
+- I've written a handful of microservices, done a lot of ETL work, and a spent even more time on devops and support.
+- I was looking to move into lower level development with Rust so I was applying for mid-level positions that would afford me that opportunity.
  This is an area where I have no previous professional experience; only reading, hobby projects, and a very small amount of open source work.
 
 &nbsp;&nbsp;&nbsp; With that in mind I think we can move onto the stats and then do a little reflection about them.
@@ -61,15 +61,14 @@ date: 2022-07-28 02:15:20 -0500
  I was mostly interested in how long it would take to start and complete an interview process.
 
 &nbsp;&nbsp;&nbsp; Honestly all the applications and interviews felt pretty shitty and draining at the time, but looking back at this it could have been much worse.
- At the time it seemed like I was applying to many more jobs than I was in reality and that my response rate was much worse than it actually was.
+ At the time it seemed like I was applying to many more jobs than I was in reality and that my response rate felt much worse than it actually was.
  From what I've been told a 42% first interview rate is actually pretty good.
- Some of my friends in comp sci and other industries have horror stories of applying to a hundred jobs before they finally get an offer, though I have a feeling that "100" is hyperbole, but the number is probably high.
+ Some of my friends in comp sci and other industries have horror stories of applying to a hundred jobs before they finally get an offer; though I have a feeling that "100 applications" is hyperbole the number is probably still high.
 
 &nbsp;&nbsp;&nbsp; All in all, the job hunt sucks.
  If there's any tool employers have at their disposal for keeping people at their job, its that the alternative is such a fucking nightmare.
  I sunk so much time into learning how to answer interview questions and I'm not actually sure I'm a better engineer or not because of it.
- I think some of it has helped my general problem solving skills, but I probably could have gotten more just writing more side projects and contributing to more open source instead.
+ I think some of it has helped my general problem solving skills, but I probably could have gotten more just writing more out of side projects and contributing to more open source instead.
 
-
-_PS_: Don't use Rust for statistics work.
+&nbsp;&nbsp;&nbsp; _PS_: Don't use Rust for statistics work.
  Just use python and save yourself some headache.
