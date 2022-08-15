@@ -2,7 +2,7 @@
 layout: post
 title:  "Small Stats, Big Jobs"
 excerpt: "Some background and statistics behind my recently finished job hunt."
-date: 2022-07-28 02:15:20 -0500
+date: 2022-08-14 02:15:20 -0500
 ---
 &nbsp;&nbsp;&nbsp; After five and a half years I have finally made the next step in my career and found a new position at Microsoft.
  Getting there took hundreds of hours of practice through side projects and LeetCode outside of my job and even though there were many rejections along the way things eventually worked out.
