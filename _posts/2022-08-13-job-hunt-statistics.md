@@ -4,7 +4,7 @@ title:  "Small Stats, Big Jobs"
 excerpt: "Some background and statistics behind my recently finished job hunt."
 date: 2022-08-14 02:15:20 -0500
 ---
-&nbsp;&nbsp;&nbsp; After five and a half years I have finally made the next step in my career and found a new position at Microsoft.
+&nbsp;&nbsp;&nbsp; After five and a half years I have finally made the next step in my career and found a new position.
  Getting there took hundreds of hours of practice through side projects and LeetCode outside of my job and even though there were many rejections along the way things eventually worked out.
  I kept very detailed notes of every interview I had: what questions I received, how they went, and statistics about my hunt.
  I think this information may be useful to other software engineers looking for a new position so here I will publish some background and the statistics.
