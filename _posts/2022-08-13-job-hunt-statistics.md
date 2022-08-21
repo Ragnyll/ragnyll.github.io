@@ -68,7 +68,7 @@ date: 2022-08-14 02:15:20 -0500
 &nbsp;&nbsp;&nbsp; All in all, the job hunt sucks.
  If there's any tool employers have at their disposal for keeping people at their job its that the job search and interview process is such a nightmare.
  I sunk so much time into learning how to answer interview questions and I'm not actually sure I'm a better engineer or not because of it.
- I think some of it has helped my general problem solving skills, but I probably could have gotten more just writing more out of side projects and contributing to more open source instead.
+ I think some of it has helped my general problem solving skills, but I probably could have got more out of side projects and contributing to more open source instead.
 
 &nbsp;&nbsp;&nbsp; _PS_: Don't use Rust for statistics work.
  Just use python and save yourself some headache.
