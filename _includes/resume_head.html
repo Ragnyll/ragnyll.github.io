@@ -15,12 +15,12 @@
 				{%- if site.resume.website -%}
 					<p>
 						<!-- I know hardcoding this is bad but I dont like the way jekyll tries to prepend the path and I dont care enough to figure out the "right" way when running on a dev server --!>
-						Blog: <a href="https://blog.gallowzhumour.dev">{{ site.resume.website | escape }}</a>
+						Blog: <a href="https://ragnyll.gihub.io">{{ site.resume.website | escape }}</a>
 					</p>
 				{%- endif -%}
 				{%- if site.gitlab_username -%}
                     <p>
-                        Gitlab Profile: <a href="https://gitlab.com/{{ site.gitlab_username | cgi_escape | escape }}">Ragnyll</a>
+                        Github Profile: <a href="https://github.com/{{ site.github_username | cgi_escape | escape }}">Ragnyll</a>
                     </p>
 				{%- endif -%}
 			</ul>
