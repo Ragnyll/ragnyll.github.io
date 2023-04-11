@@ -129,7 +129,7 @@ can be the cherry on top of your resume.
 
 &nbsp;&nbsp;&nbsp; If you are advertising personal projects, include the name
 of the project, the tech stack, and what it does. Unless it is a major open
-source project then you don't need towrite a ton here, just a sentence or two
+source project then you don't need to write a ton here, just a sentence or two
 explaining what it is.
 
 &nbsp;&nbsp;&nbsp; If you are writing some sort of community involvment thing
