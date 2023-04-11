@@ -30,9 +30,11 @@ halfway decent.
 &nbsp;&nbsp;&nbsp; Your resume needs a header with the following information:
 - name
 - phone number
-- email address &nbsp;&nbsp;&nbsp; Optionally, you can include a title. I would
-  only include that if you have a PhD or something that not every other
-  candidate can also put on their resume.
+- email address
+
+&nbsp;&nbsp;&nbsp; Optionally, you can include a title. I would only include
+that if you have a PhD or something that not every other candidate can also put
+on their resume.
 
 ## Part 2: Education
 &nbsp;&nbsp;&nbsp; Here add your alma mater, when you graduated, your gpa, and
