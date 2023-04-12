@@ -37,7 +37,7 @@ that if you have a PhD or something that not every other candidate can also put
 on their resume.
 
 ## Part 2: Education
-&nbsp;&nbsp;&nbsp; Here add your alma mater, when you graduated, your gpa, and
+&nbsp;&nbsp;&nbsp; Here add your alma mater, when you graduated, your GPA, and
 your major(s) and minor(s). If you have any certifications this can be an
 "Education and Certifications" section.
 
@@ -77,7 +77,7 @@ about any points in this section you should be able to answer them without
 missing a beat. Each one of these points should be a story that you have
 rehearsed in your head and have thought about every possible path a
 conversation about the topic could go down. That may sound like a lot of work,
-but if you want to be prepared then it is nessecary.
+but it is necessary to be well prepared.
 
 &nbsp;&nbsp;&nbsp; If writing in this format is difficult, just start by
 writing down all the things you did at that position, you can work on polishing
@@ -92,10 +92,9 @@ desk and there is a clear mismatch between a candidates purported skills and
 their job experience this can raise questions.
 
 &nbsp;&nbsp;&nbsp; Whatever skill you put on this section you should ask
-yourself, "if the entire interview revolved around this skill could I handle
-that?" If the answer is yes, go ahead and put it on there. If not, you may
-consider omitting it. However omitting something that shows up in your job
-responsibilities can be a double edged sword. If you work in some analytics
+yourself, "could I handle an entire interview solely regarding the nuances of this skill?" If the answer is yes, go ahead and put it on there. If not, you may
+consider omitting it. However, omitting something that shows up in your job
+responsibilities can be a double edged sword. For instance, if you work in some analytics
 stack, but don't have any analytics tech in your skills then that might also be
 a red flag. If you are in this scenario where you have a job responsibility that you
 are a little uncomfortable interviewing on this may be a sign that you need to
@@ -105,8 +104,7 @@ where you are interviewing you may or may not embellish this section a bit.
 
 &nbsp;&nbsp;&nbsp; Here is my "Technical Skills" section from my last resume as
 an example. I personally put skills that I am most interested in first, even
-ahead of things I may be better at. Ordering is mostly a preference things for
-me.
+ahead of things I may be better at. The ordering is largely preference, but try to make what you want to catch the most attention come first.
 
 ![technical skills](/assets/2023-04-11-mid-level-swe-resume/tech_skills_section.jpg)
 
@@ -123,8 +121,8 @@ candiates the interviewer (or in some cases the HR person) is looking for
 someone who shows their passion for their field via open source work or helps
 out in their community somehow. This lets them use you for positive PR
 gimmicks, or at least lets them say "oh, our employees care about the
-community" or some bullshit like that. This is all secondary to their bottom
-line, so your employment and technical skills better be up to snuff, but this
+community" or some bullshit like that. All of this is secondary to their bottom
+line, so your employment and technical skills better be up to snuff, but it
 can be the cherry on top of your resume.
 
 &nbsp;&nbsp;&nbsp; If you are advertising personal projects, include the name
@@ -147,7 +145,7 @@ mid or senior level positions you are applying for specific teams that have
 their full responsibilities and desired skill sets listed on the posting. This
 isnt always true for FAANG jobs, but as a general statement I find that it
 holds. If you are switching major tech stacks you are working on (like moving
-from analytics to front end work), then a cover letter becomes nessecary.
+from analytics to front end work) then a cover letter becomes nessecary.
 
 &nbsp;&nbsp;&nbsp; You can think of a cover letter as an extended objective
 statement. But where the objective statement is only one sentence that likely
@@ -187,10 +185,10 @@ Depending on how serious you are about finding a new position, it may be worth
 leaving your current job. There are a **lot** of factors here to consider, but
 preparing for interviews is almost like a full time job by itself. Often
 interviews gauge a completely different skillset than what you have in your current
-position (or stupidly enough, the position you are applying for), so taking the
-time to solely focus on being ready for that can pay off. Even if you do get an
-offer, if you join already burnt out when you start that can also be very
-tough. Regardless of what you choose to do, have a plan. Interviewing can
+position (or stupidly enough, the position you are applying for). Taking the
+time to solely focus on being ready for the interview process can pay off, and even if you do get an
+offer joining already burnt out when you start that can also be very
+tough. Regardless of what you choose to do you need to have a plan. Interviewing can
 easily burn you out mentally, physically, and emotionally. So be prepared.
 
 &nbsp;&nbsp;&nbsp; Good luck. Dont die.
