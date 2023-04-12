@@ -8,7 +8,7 @@ date: 2023-04-11 02:15:20 -0500
 difficult than the first. For your first you either don't have any experience,
 or maybe just an internship, and that's kind of expected. There are very few
 requirements on entry level software engineers and passing a code screen and
-some bullshit HR teamwork questions is often all you need to land a job. The
+some silly HR teamwork questions is often all you need to land a job. The
 resume for your second job has to fill a very different role. It must show that
 you have developed some level of technical expertise, contributed meaningfully
 to team projects, and that you aspire to do more with your career. That's a
@@ -21,7 +21,7 @@ it even lands on the desk of an engineer.
 &nbsp;&nbsp;&nbsp; Here I'll share what I think are some good tips and a
 general format for writing your second resume. Keep in mind, these are only my
 opinions. I am not a recruiter and not a manager. I'm just a mid-level software
-engineer with an ego who has looked at some truly crappy resume's belonging to
+engineer with an ego who has looked at some truly crappy resumes belonging to
 my peers. There's not a "right way" to write a resume, just a ton of wrong
 ways. So hopefully this will help you upgrade your resume into something
 halfway decent.
@@ -38,7 +38,7 @@ on their resume.
 
 ## Part 2: Education
 &nbsp;&nbsp;&nbsp; Here add your alma mater, when you graduated, your gpa, and
-your major(s) and minor(s). If you have any certifications this can be and
+your major(s) and minor(s). If you have any certifications this can be an
 "Education and Certifications" section.
 
 ## Part 3: Employment
@@ -71,7 +71,7 @@ section.
 &nbsp;&nbsp;&nbsp; The list goes on, but you should notice a general format
 emerging from this. You did some _specific_ that accomplished some _specific_
 task using some _specific_ technology or methodology. Each one of these should
-be a potentially talking point in your interview. These statements do simplify
+be a potential talking point in your interview. These statements do simplify
 the story, but unless questioned on them then it's fine. If you are questioned
 about any points in this section you should be able to answer them without
 missing a beat. Each one of these points should be a story that you have
@@ -97,7 +97,7 @@ that?" If the answer is yes, go ahead and put it on there. If not, you may
 consider omitting it. However omitting something that shows up in your job
 responsibilities can be a double edged sword. If you work in some analytics
 stack, but don't have any analytics tech in your skills then that might also be
-odd. If you are in this scenario where you have a job responsibility that you
+a red flag. If you are in this scenario where you have a job responsibility that you
 are a little uncomfortable interviewing on this may be a sign that you need to
 pick up a book prior to your interview so you can speak reasonably well about
 this skill. Not all interviewers will grill you like this, so depending on
@@ -153,7 +153,7 @@ from analytics to front end work), then a cover letter becomes nessecary.
 statement. But where the objective statement is only one sentence that likely
 doesn't make the case for your interest, the cover letter makes up for that. It
 gives you the room to make the case for why your skills are transferrable, and
-let's you talk about what it is that interests you in that realm of technology.
+lets you talk about what it is that interests you in that realm of technology.
 I reccomend having a cover letter ready for almost every job you apply for.
 Once you have one it is a relatively low effort task to adjust it for a given
 position and it can help set your application apart from someone who has the
@@ -186,11 +186,11 @@ you probably want to start working on your code interview skills.
 Depending on how serious you are about finding a new position, it may be worth
 leaving your current job. There are a **lot** of factors here to consider, but
 preparing for interviews is almost like a full time job by itself. Often
-interviews gauge a completely different skillset then you have in your current
+interviews gauge a completely different skillset than what you have in your current
 position (or stupidly enough, the position you are applying for), so taking the
 time to solely focus on being ready for that can pay off. Even if you do get an
 offer, if you join already burnt out when you start that can also be very
 tough. Regardless of what you choose to do, have a plan. Interviewing can
-easily burn you out mentally, physically, and emotionally, so be prepared.
+easily burn you out mentally, physically, and emotionally. So be prepared.
 
 &nbsp;&nbsp;&nbsp; Good luck. Dont die.
